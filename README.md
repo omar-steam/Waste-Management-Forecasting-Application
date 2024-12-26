@@ -45,10 +45,11 @@ streamlit run app.py
 
 ## Contributing
 1. Fork the repository
-2. Create a new branch (`git checkout -b feature/improvement`)
-3. Commit your changes (`git commit -am 'Add new feature'`)
-4. Push to the branch (`git push origin feature/improvement`)
-5. Create a Pull Request
+2. The dataset (https://www.kaggle.com/datasets/sumn2u/garbage-classification-v2) 
+3. Create a new branch (`git checkout -b feature/improvement`)
+4. Commit your changes (`git commit -am 'Add new feature'`)
+5. Push to the branch (`git push origin feature/improvement`)
+6. Create a Pull Request
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
